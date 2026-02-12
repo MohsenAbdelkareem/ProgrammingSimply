@@ -62,7 +62,7 @@ Git & GitHub	Version Control
 📺 Watch the Series
 
 📌 تابع الحلقات من هنا:
-🔗 [https://www.youtube.com/@mohsen.abd.elkareem]
+🔗 https://www.youtube.com/@mohsen.abd.elkareem
 
 ⸻
 
