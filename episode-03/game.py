@@ -7,7 +7,6 @@ secret_number = random.randint(1, 10)
 # 3- we ask the user to enter a guess
 guess_str = input("Guess a number between 1 and 10 : ") # Return string not int
 
-while true:
 # 4- validate inputs
 if guess_str:
     # logic
